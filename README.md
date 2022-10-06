@@ -1,3 +1,6 @@
+ <h1 style='align: center;'>  Hi, I’m SokeBiz </h2>
+ 
+
 - 👋 Hi, I’m SokeBiz
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning ReactJS 
