@@ -1,4 +1,4 @@
- <h1 style='align: center;'>  Hi, I’m SokeBiz 👋 </h2>
+ <h1 style='align: center;'>  Hi, I’m Sodeeq Oladimeji 👋 </h2>
  
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning ReactJS 
