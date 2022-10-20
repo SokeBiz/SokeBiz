@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on Front-End projects using ReactJS and NextJS
 - 💬 Ask me about ReactJS, JavaScript, CSS, HTML.
-- 👨‍💻 An example of my projects is available at [https://sokebiz.netlify.app](https://sokebiz.netlify.app)
+- 👨‍💻 An example of my project is available at [https://sokebiz.netlify.app](https://sokebiz.netlify.app)
 - 📫 How to reach me oladsodeeq148@gmail.com
 
 ---
