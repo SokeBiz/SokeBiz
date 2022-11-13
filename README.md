@@ -1,10 +1,10 @@
  <h1 style='align: center;'>  Hi, I’m Sodeeq Oladimeji 👋 </h2>
  
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning ReactJS 
+- 👀 I’m a Front-End Developer
+- 🌱 I’m currently working on myself as a Front-End Developer
 - 💞️ I’m looking to collaborate on Front-End projects using ReactJS and NextJS
 - 💬 Ask me about ReactJS, JavaScript, CSS, HTML.
-- 👨‍💻 An example of my project is available at [https://sokebiz.netlify.app](https://sokebiz.netlify.app)
+<!-- - 👨‍💻 An example of my project is available at [https://sokebiz.netlify.app](https://sokebiz.netlify.app) -->
 - 📫 How to reach me oladsodeeq148@gmail.com
 
 ---
