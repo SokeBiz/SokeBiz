@@ -1,8 +1,8 @@
  <h1 style='align: center;'>  Hi, I’m Sodeeq Oladimeji 👋 </h2>
  
 - 👀 I’m a Front-End Developer
-- 🌱 I’m currently working on myself as a Front-End Developer
-- 💞️ I’m looking to collaborate on Front-End projects using ReactJS and NextJS
+- 🌱 I’m currently working on myself as a Blockchain Developer
+- 💞️ I’m looking to collaborate on Front-End and Blockchain projects
 - 💬 Ask me about ReactJS, JavaScript, CSS, HTML.
 - 📫 How to reach me oladsodeeq148@gmail.com
 <!-- - 👨‍💻 My portfolio is: [https://sokebiz.netlify.app](https://sokebiz.netlify.app) -->
