@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Front-End projects using ReactJS and NextJS
 - 💬 Ask me about ReactJS, JavaScript, CSS, HTML.
 - 📫 How to reach me oladsodeeq148@gmail.com
-- 👨‍💻 My portfolio is: [https://sokebiz.netlify.app](https://sokebiz.netlify.app)
+<!-- - 👨‍💻 My portfolio is: [https://sokebiz.netlify.app](https://sokebiz.netlify.app) -->
 ---
 
 <h3 align="left">Connect with me</h3>
