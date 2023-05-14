@@ -40,5 +40,3 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SokeBiz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="SokeBiz" /></p> -->
 <br/>
 <br/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SokeBiz&theme=vision-friendly-dark)](https://git.io/streak-stats)
