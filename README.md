@@ -1,9 +1,9 @@
  <h1 style='align: center;'>  Hi, I’m Sodeeq Oladimeji 👋 </h2>
  
-- 👀 I’m a Front-End Developer
+- 👀 I’m a Front-End Developer & Security Researcher
 - 🌱 I’m currently working on myself as a Blockchain Developer
-- 💞️ I’m looking to collaborate on Front-End and Blockchain projects
-- 💬 Ask me about ReactJS, JavaScript, CSS, HTML.
+- 💞️ I’m looking to collaborate on Front-End, Blockchain & Security projects
+- 💬 Ask me about NextJS, ReactJS, TypeScript, JavaScript, CSS, HTML, Solidity & Python.
 - 📫 How to reach me oladsodeeq148@gmail.com
 <!-- - 👨‍💻 My portfolio is: [https://sokebiz.netlify.app](https://sokebiz.netlify.app) -->
 ---
@@ -26,6 +26,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=reactjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -34,6 +35,8 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 ---
 
