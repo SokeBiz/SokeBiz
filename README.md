@@ -1,8 +1,8 @@
  <h1 style='align: center;'>  Hi, I’m Sodeeq Oladimeji 👋 </h2>
  
 - 👀 I’m a Security Analyst, Front-End & Blockchain Developer
-- 💞️ I’m looking to collaborate on Front-End, Blockchain & Security projects
-- 💬 Ask me about NextJS, ReactJS, TypeScript, JavaScript, CSS, HTML, Solidity & Python.
+- 💞️ I’m looking to collaborate on securing Information Systems, Front-End, Blockchain & other security projects
+- 💬 Ask me about Cybersecurity, NextJS, ReactJS, TypeScript, JavaScript, CSS, HTML, Solidity & Python.
 - 📫 How to reach me oladsodeeq148@gmail.com
 <!-- - 👨‍💻 My portfolio is: [https://sokebiz.netlify.app](https://sokebiz.netlify.app) -->
 ---
