@@ -1,6 +1,6 @@
  <h1 style='align: center;'>  Hi, I’m Sodeeq Oladimeji 👋 </h2>
  
-- 👀 I’m a Front-End/Blockchain Developer & Security Researcher
+- 👀 I’m a Security Analyst, Front-End & Blockchain Developer
 - 💞️ I’m looking to collaborate on Front-End, Blockchain & Security projects
 - 💬 Ask me about NextJS, ReactJS, TypeScript, JavaScript, CSS, HTML, Solidity & Python.
 - 📫 How to reach me oladsodeeq148@gmail.com
